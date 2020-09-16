@@ -16,7 +16,7 @@ I am Atri Saxena.
 
 
 ### 🎓 Qualificatios
-  - I have completed my M.Tech in Information Security. 
+  - I have completed my M.Tech in Information Security currently working as Software Engineer.
   
 ### :heart: Technologies i love
 
