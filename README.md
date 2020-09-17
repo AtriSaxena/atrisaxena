@@ -15,7 +15,7 @@ I am Atri Saxena.
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://atrisaxena.github.io/)](https://atrisaxena.github.io/) 
 
 
-### 🎓 Qualificatios
+### 🎓 Qualifications
   - I have completed my M.Tech in Information Security currently working as Software Engineer.
   
 ### :heart: Technologies i love
