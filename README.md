@@ -32,5 +32,6 @@ I am Atri Saxena.
   - :books: Atri Saxena, DK Gupta and Samayveer Singh “An Animal Detection and
 Collision Avoidance System Using Deep Learning” First International Conference on Advanced Communication & Computational Technology (ICACCT 2019), Springer LNCS (Accepted)
 
+### 📕 Latest Blog Posts
 
   
