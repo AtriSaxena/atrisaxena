@@ -14,4 +14,4 @@ jobs:
       - uses: atrisaxena/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://atrisaxena.github.io/feed/"
+          feed_list: "https://atrisaxena.github.io/feed"
