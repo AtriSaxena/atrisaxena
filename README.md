@@ -36,5 +36,9 @@ Collision Avoidance System Using Deep Learning” First International Conference
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Data processing pipeline in Apache Beam](https://atrisaxena.github.io/tutorials/apache-beam/)
+- [Use Salesforce python library to Edit, Update, View Salesforce Object](https://atrisaxena.github.io/tutorial/saleforce-python-object/)
+- [A introduction to Linear Regression and Gradient Descent in pytorch.](https://atrisaxena.github.io/tutorial/Linear_regression-Gradient_descent/)
+- [A beginner’s guide to Docker and Deploying Django Application on Docker](https://atrisaxena.github.io/projects/docker-basic-django-application-deployment/)
 <!-- BLOG-POST-LIST:END -->
   
