@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: atrisaxena/blog-post-workflow@master
+      - uses: atrisaxena/atrisaxena/blog-post-workflow@master
         with:
           max_post_count: "4"
           feed_list: "https://atrisaxena.github.io/feed"
