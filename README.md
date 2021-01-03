@@ -4,7 +4,7 @@ I am Atri Saxena.
 
 - 🔭 I’m currently working on NLP and Computer Vision.
 
-- 🌱 I’m currently learning Health Care AI. 
+- 🌱 I’m currently learning Health Care AI and Android Developement with Kotlin.
 
 - 👯 I’m looking to collaborate on NLP and Healthcare product. 
 
