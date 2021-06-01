@@ -2,7 +2,7 @@
 I am Atri Saxena.
 
 
-- 🔭 I’m currently working on NLP and Computer Vision.
+- 🔭 I’m currently working on some projects using ReactJS, NodeJS and MongoDB.
 
 - 🌱 I’m currently learning Health Care AI and Android Developement with Kotlin.
 
