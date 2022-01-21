@@ -2,11 +2,11 @@
 I am Atri Saxena.
 
 
-- 🔭 I’m currently working on some projects using ReactJS, NodeJS and MongoDB.
+- 🔭 I’m currently working on a mission to do Kaggle everyday..
 
-- 🌱 I’m currently learning Health Care AI and Android Developement with Kotlin.
+- 🌱 I’m currently learning Tensorflow 2.x aiming for Tensorflow Certification.
 
-- 👯 I’m looking to collaborate on NLP and Healthcare product. 
+- 👯 I’m looking to collaborate on NLP and Computer vision Tasks Kaggle Compitions.
 
 - 💬 Ask me about Machine Learning, Object detection and Google Cloud.
 
